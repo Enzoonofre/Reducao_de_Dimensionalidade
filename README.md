@@ -17,11 +17,11 @@ Este projeto utiliza a biblioteca OpenCV para converter uma imagem colorida em t
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Enzoonofre/Reducao_de_Dimensionalidade.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd Reducao_de_Dimensionalidade
    ```
 3. Instale as dependências:
    ```bash
@@ -30,10 +30,10 @@ Este projeto utiliza a biblioteca OpenCV para converter uma imagem colorida em t
 
 ## 📌 Como Executar
 
-1. Certifique-se de ter uma imagem na mesma pasta do script (ex: `imagem.jpg`).
+1. Certifique-se de ter uma imagem na mesma pasta do script (ex: `lena.jpg`).
 2. Execute o script Python:
    ```bash
-   python converter_imagem.py
+   python reducao_de_dimensinalidade.py
    ```
 
 ## 🖼 Exemplo de Código
